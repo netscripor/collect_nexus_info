@@ -89,9 +89,8 @@ Fan: Good
 
 ## 📡 Подпишись и поддержи проект:
 
-✈️ Telegram-канал: t.me/netscripor
-🔗 GitHub: github.com/netscripor
-💰 Boosty: boosty.to/netscripor
+Поддержка и идеи — в Telegram: [@netscripor](https://t.me/netscripor)
+Поддержка 💰 на Boosty:[netscripor]](boosty.to/netscripor)
 
 ⭐️ Поддержи проект звездой
 🛠 Нашёл баг или есть идея? Создай Issue!
